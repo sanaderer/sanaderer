@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - 🌱 I’m currently studying Comp. Science at @Descomplica
-- 💼 I'm searching for any opportunity
+- 💼 I'm software development intern in Erah Analytics 
 - 😸 Fun fact: I love cats
 - 📫 Contato: sabrinanaderer@hotmail.com
 
