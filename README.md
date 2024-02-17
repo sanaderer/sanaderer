@@ -2,7 +2,7 @@
 
 - 💼 I'm Software Developer at <a href="https://evryjewels.ca/">Evry Jewels</a>
 - ☕  Fun fact: I love coffee brewing methods
-- 📫 Contato: sabrinanaderer@hotmail.com
+- 📫 Contact: sabrinanaderer@hotmail.com
 
 ## 
 
