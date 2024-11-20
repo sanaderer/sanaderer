@@ -1,7 +1,6 @@
-### Hello World 👋
+### Hi, I'm Sabrina 👋
 
-- 💼 I'm Software Developer at <a href="https://evryjewels.ca/">Evry Jewels</a>
-- ☕  Fun fact: I love coffee brewing methods
+- 💼 I'm Senior Software Developer at <a href="https://evryjewels.ca/">Evry Jewels</a>
 - 📫 Contact: sabrinanaderer@hotmail.com
 
 ## 
