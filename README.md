@@ -1,6 +1,6 @@
 ### Hi, I'm Sabrina 👋
 
-- 💼 I'm Senior Software Developer at <a href="https://evryjewels.ca/">Evry Jewels</a>
+- 💼 I'm Software Engineer at <a href="https://evryjewels.ca/">Evry Jewels</a>
 - 📫 Contact: sabrinanaderer@hotmail.com
 
 ## 
